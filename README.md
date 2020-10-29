@@ -1,4 +1,4 @@
-[![Rohitszx's github stats](https://github-readme-stats.vercel.app/api?username=Rohitszx&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohitszx's github stats](https://github-readme-stats.vercel.app/api?username=Rohitszx&theme=blue-green)](https://github.com/Rohitszx/INT219/edit/main/README.md)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitszx&theme=blue-green)
 
 <h1> A travel and tourism webiste</h1>
