@@ -1,3 +1,3 @@
                                          A travel and tourism website 
                                                  TRIPY
-![Screenshot](1.png)
+![Screenshot](Screenshots/1.png)
