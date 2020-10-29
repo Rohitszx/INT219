@@ -1,4 +1,5 @@
-<h1> A travel and tourism webiste</h1>
+                                             <h1> A travel and tourism webiste</h1>
+                                             <h2>        Tripy                </h2>
                                               
 ![Screenshot](Screenshots/1.png)
 ![Screenshot](Screenshots/2.png)
