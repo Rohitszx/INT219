@@ -1,2 +1,2 @@
-                                                                 A travel and tourism website 
-                                                                       TRIPY
+                                         A travel and tourism website 
+                                                 TRIPY
