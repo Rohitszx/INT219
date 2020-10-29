@@ -1,6 +1,5 @@
 <h1> A travel and tourism webiste</h1>
----
-<h2><center>Tripy</center></h2>
+<h2><a href="https://tripy.netlify.app/">Tripy - Live Demo</a></h2>
                                               
 ![Screenshot](Screenshots/1.png)
 ![Screenshot](Screenshots/2.png)
