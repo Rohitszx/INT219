@@ -3,7 +3,9 @@
 
 <h1> A travel and tourism webiste</h1>
 <h2><a href="https://tripy.netlify.app/">Tripy - Live Demo</a></h2>
-                                              
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+   
 ![Screenshot](Screenshots/1.png)
 ![Screenshot](Screenshots/2.png)
 ![Screenshot](Screenshots/3.png)
