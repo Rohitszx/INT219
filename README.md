@@ -22,3 +22,6 @@
 ![Screenshot](Screenshots/6.png)
 
 [![R build status](https://github.com/jimhester/thank/workflows/R-CMD-check/badge.svg)](https://github.com/jimhester/thank/actions)
+``` r
+thank::you()
+```
