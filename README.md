@@ -1,3 +1,5 @@
+[![Rohitszx's github stats](https://github-readme-stats.vercel.app/api?username=Rohitszx&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1> A travel and tourism webiste</h1>
 <h2><a href="https://tripy.netlify.app/">Tripy - Live Demo</a></h2>
                                               
